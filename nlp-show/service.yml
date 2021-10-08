@@ -7,4 +7,4 @@ spec:
   ports:
     - port: 8085
       targetPort: 80		
-      nodePort: 30081
+      nodePort: 30082
